@@ -1,0 +1,45 @@
+.ustad .un{
+    
+    font-weight: bold;
+}
+.btn{
+    /* margin-left: 100px; */
+    margin-top: 30px;
+}
+.fst{
+    border-radius: 30px;
+  
+
+}
+/* .container{
+    background: url(../../../public/img1/bg/bac5.jpg )no-repeat  ;
+    background-size: cover ;
+    width: 100%;
+} */
+.mail{
+    margin-left: 38px;
+    font-weight: bold;
+}
+.contact{
+    margin-left: 21px;
+    font-weight: bold;
+
+}
+.pass{
+    margin-left: 10px;
+    font-weight: bold;
+}
+input{
+    border: 3px solid ;
+    content: 'please';
+    border-radius: 10px;
+ 
+    
+}
+input:hover{
+    transition: 0.2s;
+    
+    border: 4px solid ;
+    border-radius: 10px;
+    
+}

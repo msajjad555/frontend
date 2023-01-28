@@ -1,0 +1,54 @@
+
+.alldeals{
+    font-weight: bolder;
+    color:black;
+text-decoration: none;
+
+}
+.price{
+    text-decoration: none;
+    font-weight: bold;
+    color: blue;
+}
+.price:hover{
+    text-decoration: none;
+    font-weight: bold;
+    color: green;
+}
+.div-head:hover{
+    transform: scale(1.05);
+    transition: all ease-in-out 1s;
+}
+.div-head{
+    height: 400px;
+background-color: #FFFFFF;
+width: 300px;
+/* border: 1px solid red ; */
+/* box-shadow: 0 0 3px 3px grey; */
+}
+.elec-img{
+    max-width: 100%;
+    height: auto;
+}
+.maindiv{
+background-color:#EAEBEB;
+
+}
+.title{
+    color: grey;
+    text-decoration: none;
+    text-align: center;
+    background-color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.logo{
+    border: 0px solid;
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.main-menu{
+    height: 70px;
+    background-color: blue;
+}

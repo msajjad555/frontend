@@ -1,0 +1,51 @@
+.footer-1{
+    background-image: url('background.jpg');
+    height:auto;
+    width:100%;
+    margin-top: 100px;
+}
+.title-1{
+    color: white;
+    margin-top: 80px;
+}
+.hr-1{
+    height: 3px;
+    width: 100%;
+    margin-top:20px ;
+    background:linear-gradient(
+        to right,
+        red 0%,
+        red 33%,
+        white 33%,
+        white 100%
+    )
+   
+}
+.camera{
+    border: 1px solid gray;
+}
+.camera:hover{
+    background-color: red;
+    transition: all ease-in-out 1s;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+.mm{
+    margin-top: 40px;
+    margin-left: 180px;
+
+}
+.silver{
+    color:silver;
+margin-left: -12px;
+margin-top: 50px;
+    
+}
+/* .first{
+    margin-left: 10px;
+} */
+.zz hr{
+    background-color: red;
+    height: 5px;
+    width: 100%;
+}

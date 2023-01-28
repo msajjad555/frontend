@@ -1,0 +1,18 @@
+
+.navbar1 {
+    height: 50px;
+    color: wheat;
+}
+.navbar1 >ul >li{
+    margin-left: 20px;
+    list-style: none;
+    display: inline;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-between;
+    
+}
+Link{
+    color: white;
+    text-decoration: none;
+}

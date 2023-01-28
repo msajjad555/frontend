@@ -1,0 +1,27 @@
+.login{
+    /* background-image: linear-gradient(purple);
+     */
+     background-color: purple;
+    
+    
+     font-weight: bolder;
+     border-bottom: 5px solid red;
+     width: 100px;
+     text-transform: uppercase;
+}
+.login:hover{
+     
+
+    background-image: linear-gradient(blue,red,green);
+   
+ transition: all 2s;
+
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    color: white;
+}
